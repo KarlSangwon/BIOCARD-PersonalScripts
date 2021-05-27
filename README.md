@@ -21,7 +21,7 @@ Resulting .tif file is about half the file size of .czi file, while keeping the 
 Thanks to sebi06 from Carl-Zeiss Microscopy for the help with this script.<br />
 
 
-
+<br /><br /><br /><br />
 ## cziToTiff.sh
 
 This is a bash shell script written to automate applying of czi conversion to all .czi files within a directory.<br />
@@ -35,7 +35,7 @@ This script is written to bypass that by directly editing the script using bash 
 Repeat the code block indicated in the bash script and edit the path to apply conversion to multiple folders. <br />
 
 
-
+<br /><br /><br /><br />
 ## unet_script_brain4.sh
 
 This is a bash shell script written to automate applying of ZhenZhen's UNet apply.py to all .tif files within a directory.<br />
@@ -54,7 +54,7 @@ Similar to the shell script above, repeat the code block indicated to apply unet
 
 brain4 is just an arbitrary naming. I copied the same script and made it brain5, brain6, etc so thath I would not have to edit same file over for different brains.<br />
 
-
+<br /><br /><br /><br />
 ## feat_ext_brain4.sh
 
 This is a bash shell script written to automate applying of ZhenZhen's feature extraction to all .npy probability map files within a directory.<br />
