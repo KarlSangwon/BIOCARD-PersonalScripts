@@ -4,17 +4,23 @@
 #### This bash script is used together with cziToTif python script.
 
 #### Name or Path to the python script.
+
+# change this if necessary
 f=cziToTif_v01.py
+
 tmp=$(mktemp)
+
+
+# only input & output paths have to change for different folders
 
 
 # Brain 4 as Example
 
 ################# REPEAT (COPY & PASTE & EDIT) THIS CODE BLOCK FOR EACH FOLDER #################
 
-#### Path for your input file folder (raw .czi)
+#### [CHANGE THIS] Path for your input file folder (raw .czi)
 inpath="/cis/home/zhou/Share/HRMRI/Histology/Brain4/Block 3/6E10/"
-#### Path for your desired output folder (output .tif)
+#### [CHANGE THIS] Path for your desired output folder (output .tif)
 outpath="/cis/home/kstouff4/Documents/datasets/exvivohuman_11T/more_blocks/Brain4/histology/down_000/AD_Hip3/Amyloid/"
 
 # removes old path in line 23
