@@ -68,7 +68,7 @@ To monitor your script process in shell, use the following:<br />
 ps -aux<br />
 
 
-This will show all the running processes, and you should be able to find rows of feature extraction running for your user node.<br />
+This will show all the running processes, and you should be able to find rows of feature extraction running for your user node.<br /><br /><br /><br />
 
 
 
