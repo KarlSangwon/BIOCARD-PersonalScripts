@@ -5,7 +5,7 @@ UPDATED: May 27, 2021<br />
 Scritps Written for BIOCARD Project at Miller/Tward Lab
 
 
-# Description of Each Files
+# Description
 
 
 ## cziToTiff_v01.py
