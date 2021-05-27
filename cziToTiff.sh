@@ -10,7 +10,7 @@ tmp=$(mktemp)
 
 # Brain 4 as Example
 
-################ REPEAT THIS CODE BLOCK FOR EACH FOLDER ################
+################# REPEAT (COPY & PASTE & EDIT) THIS CODE BLOCK FOR EACH FOLDER #################
 
 #### Path for your input file folder (raw .czi)
 inpath="/cis/home/zhou/Share/HRMRI/Histology/Brain4/Block 3/6E10/"
@@ -37,5 +37,5 @@ echo "Converting: "$file
 
 done
 
-################ REPEAT THIS CODE BLOCK FOR EACH FOLDER ################
+################# REPEAT (COPY & PASTE & EDIT) THIS CODE BLOCK FOR EACH FOLDER #################
 
